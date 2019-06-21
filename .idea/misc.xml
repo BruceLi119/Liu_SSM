@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://F:/02_学习资料/07_SSM综合练习（5天）/day05/代码/heima_ssm/heima_ssm_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="F:/02_学习资料/07_SSM综合练习（5天）/day05/代码/heima_ssm/heima_ssm_dao/pom.xml" />
+        <option value="F:/02_学习资料/07_SSM综合练习（5天）/day05/代码/heima_ssm/heima_ssm_domain/pom.xml" />
+        <option value="F:/02_学习资料/07_SSM综合练习（5天）/day05/代码/heima_ssm/heima_ssm_service/pom.xml" />
+        <option value="F:/02_学习资料/07_SSM综合练习（5天）/day05/代码/heima_ssm/heima_ssm_utils/pom.xml" />
+        <option value="F:/02_学习资料/07_SSM综合练习（5天）/day05/代码/heima_ssm/heima_ssm_web/pom.xml" />
+        <option value="F:/02_学习资料/07_SSM综合练习（5天）/day05/代码/heima_ssm/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
